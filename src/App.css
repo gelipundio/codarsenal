@@ -28,6 +28,14 @@
   color: #61dafb;
 }
 
+.tabs {
+  background-color: gray;
+}
+
+.menuIcon {
+  width: 90px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
